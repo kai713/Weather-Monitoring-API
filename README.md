@@ -1,5 +1,3 @@
-Here’s the corrected and complete **README.md** file:
-
 ```markdown
 # WeatherAPI
 
@@ -144,9 +142,11 @@ mvn spring-boot:run
 
 ![Screenshot](screenshots/tz1.png)
 
-![Screenshot](screenshots/tz1.png)
+![Screenshot](screenshots/tz2.png)
 
-![Screenshot](screenshots/tz1.png)
+![Screenshot](screenshots/tz3.png)
+
+![Screenshot](screenshots/tz4.png)
 
 ---
 
