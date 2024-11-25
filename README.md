@@ -140,13 +140,13 @@ mvn spring-boot:run
 
 ## Screenshots
 
-![Screenshot](screenshots/tz1.png)
+![Screenshot](screenshots/tz1.jpg)
 
-![Screenshot](screenshots/tz2.png)
+![Screenshot](screenshots/tz2.jpg)
 
-![Screenshot](screenshots/tz3.png)
+![Screenshot](screenshots/tz3.jpg)
 
-![Screenshot](screenshots/tz4.png)
+![Screenshot](screenshots/tz4.jpg)
 
 ---
 
