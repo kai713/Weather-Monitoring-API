@@ -8,7 +8,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.ObjectError;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.server.ResponseStatusException;
 import ru.kairgaliyev.springCourse.Project3.dto.SensorDTO;
 import ru.kairgaliyev.springCourse.Project3.models.Sensor;
 import ru.kairgaliyev.springCourse.Project3.services.SensorService;
